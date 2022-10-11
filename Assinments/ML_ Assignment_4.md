@@ -1,4 +1,4 @@
-  . What are the key tasks involved in getting ready to work with machine learning modeling ?
+  1. What are the key tasks involved in getting ready to work with machine learning modeling ?
     Ans: The Key Tasks involved in getting ready to work with Machine learning Modelling are:
     Data collection: Defining the problem and assembling a dataset. Data preparation: Preparing your data. Choosing a Model Training the Model: Developing a model that does better than a baseline. Evaluating the Model: Choosing a measure of success. Deciding on an evaluation protocol. Parameter tuning: Scaling up: developing a model that overfits.Regularizing your model and tuning your parameters.
 
