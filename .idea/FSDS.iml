@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Python-DSA" />
     <orderEntry type="module" module-name="nutshell" />
+    <orderEntry type="module" module-name="NFL Big Data Bowl" />
   </component>
 </module>
